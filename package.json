@@ -1,0 +1,10 @@
+{
+  "name": "com.outbreakstudios.impact.unity",
+  "version": "0.0.0",
+  "displayName": "Impact",
+  "author": {
+    "name": "Outbreak Studios"
+  },
+  "description": "2D AABB Intersect, Overlap and Sweep collision tests",
+  "license": "MIT"
+}
